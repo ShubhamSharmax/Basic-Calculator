@@ -1,6 +1,7 @@
 https://shubhamsharmax.github.io/Basic-Calculator/
 <h1>Calculator :-</h1>
-<p>this is a basic Calulator which can be used for performing diffrent mathematical calculations</p>
+<p>A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.</p>
+<p>This is a Example of a basic Calculator using html, css and javascript.</p>
 
 <h2>Eval Function</h2>
 <p>In JavaScript, eval() is a built-in function that evaluates a string of code and executes it as if it were a part of the calling code. It takes a single argument which is the string containing the code to be executed.</p>
