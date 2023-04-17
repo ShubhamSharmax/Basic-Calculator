@@ -75,6 +75,7 @@ input{
 
 input:hover{
     background-color: rgb(123, 117, 117);
+    cursor: pointer;
 }
 
 input:active{
@@ -92,3 +93,30 @@ input:active{
     margin: 10px;
     text-align: right;
 }
+
+#display:hover{
+    background-color: rgba(0, 0, 0, 0);
+    cursor: default;
+}
+
+#displat:active{
+    background-color: rgba(0, 0, 0, 0);
+    cursor: default;
+}
+  
+@media only screen and (max-width: 768px) {
+    /* Styles for devices with a maximum width of 425 pixels */
+    .calculator{
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        scale: 135%;
+        background-color:rgba(0, 0, 0, 0);
+    }
+    #display{
+        font-size: 40px;
+        padding: 10px;
+    }
+
+}    
+  
