@@ -1,4 +1,3 @@
-https://shubhamsharmax.github.io/Basic-Calculator/
 <h1>Calculator :-</h1>
 <p>A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.</p>
 <p>This is a Example of a basic Calculator using html, css and javascript.</p>
